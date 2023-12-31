@@ -5,5 +5,6 @@
 public class Coins {
 	public static void main(String[] args) {
 		// Put your code here
+		// Feedback - Please add a main method to your class
 	}
 }
